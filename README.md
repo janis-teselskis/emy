@@ -40,5 +40,5 @@
 - **vite-plugin-vuetify** - Lai ielādē tikai izmantotās komponentes un stilus
 
 ### Ikonas
-- **@mdi/font** - Material Design Icons - tāpēc 
+- **@mdi/font** - Material Design Icons
 
